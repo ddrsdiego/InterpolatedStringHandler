@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolatedStringHandler", "InterpolatedStringHandler\InterpolatedStringHandler.csproj", "{184FFD1F-4B33-433D-9DDB-5F22E569D61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184FFD1F-4B33-433D-9DDB-5F22E569D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184FFD1F-4B33-433D-9DDB-5F22E569D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184FFD1F-4B33-433D-9DDB-5F22E569D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184FFD1F-4B33-433D-9DDB-5F22E569D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
